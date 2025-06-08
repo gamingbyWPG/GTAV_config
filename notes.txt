@@ -6,3 +6,6 @@ potato:
 
 lowest:
 -nointro -nomemrestrict -norestrictions -low -ignoreDifferentVideoCard
+
+mod outsource:
+-percentvidmem 100 -nomemrestrict -norestrictions -noprecache -novblank -availablevidmem 4096
