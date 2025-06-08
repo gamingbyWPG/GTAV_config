@@ -1,0 +1,8 @@
+GTAV config
+
+epic: cmd:
+potato:
+-noChunkedLoading -ignoreDifferentVideoCard -nointro -nomemrestrict -noprecache -low
+
+lowest:
+-nointro -nomemrestrict -norestrictions -low -ignoreDifferentVideoCard
