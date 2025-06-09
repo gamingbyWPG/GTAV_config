@@ -62,7 +62,7 @@
     <ScreenWidth value="800" />
     <ScreenHeight value="600" />
     <RefreshRate value="60" />
-    <Windowed value="1" />
+    <Windowed value="0" />
     <VSync value="0" />
     <Stereo value="0" />
     <Convergence value="0.100000" />
